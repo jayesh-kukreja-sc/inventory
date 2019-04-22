@@ -1,1 +1,1 @@
-<?php inlcude("main.ejs")?>
+<?php inlcude("main.js")?>
